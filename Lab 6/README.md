@@ -13,15 +13,7 @@ Visual Studio Code, Chrome Browser
 4. Theory:
 <table> creates table, <tr> is row, <th> is header, <td> is data. border attribute shows border. <ul> is unordered list, <ol> is ordered list, <li> is list item, style type changes bullets.
 
-5. Algorithm / Procedure:
-1. Create folder Assignment 6
-2. Create report.html with table Attendance Report
-3. Add header row Subject | Score and 3 data rows
-4. Create lists.html with two ul (plain and square bullets) and one ol (numbers)
-5. Open files in browser
-6. Take screenshots
-
-6. Program / Queries / Commands:
+5. Program / Queries / Commands:
 report.html:
 <!-- Name: Arif Khan | Roll No: 2510303124 | Ass: 6 -->
 <!DOCTYPE html>
@@ -43,16 +35,16 @@ lists.html:
 <ul style="list-style-type: square;"><li>Reading</li><li>Coding</li></ul>
 <ol><li>First</li><li>Second</li></ol>
 
-7. Input:
+6. Input:
 File names: report.html, lists.html
 
-8. Output:
+7. Output:
 Table shows 4 rows with border and attendance data. First list shows circle bullets, second shows square bullets, third shows numbers 1,2. Screenshots in images folder.
 
-9. Result:
+8. Result:
 Experiment performed successfully.
 
-10. Viva-Voce Questions:
+9. Viva-Voce Questions:
 1. What is difference between th and td?
 2. What is tr?
 3. Difference between ul and ol?

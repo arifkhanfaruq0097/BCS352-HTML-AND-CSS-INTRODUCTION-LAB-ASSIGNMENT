@@ -13,15 +13,7 @@ Visual Studio Code, Chrome Browser
 4. Theory:
 <a> tag creates hyperlink with href attribute. <img> tag displays image with src, width, height and alt attributes. alt text shows when image is missing.
 
-5. Algorithm / Procedure:
-1. Create folder Assignment 5
-2. Create home.html with heading Welcome to My Site and link to portfolio.html
-3. Create portfolio.html with heading and link back to home.html
-4. Create portfolio-image.html with heading and img from images folder width 200 height 200 with alt text
-5. Open home.html and test both links
-6. Take screenshots
-
-6. Program / Queries / Commands:
+5. Program / Queries / Commands:
 home.html:
 <!-- Name: Arif Khan | Roll No: 2510303124 | Ass: 5 -->
 <!DOCTYPE html>
@@ -41,16 +33,16 @@ portfolio-image.html:
 <h1>My Photo</h1>
 <img src="images/photo.jpg" width="200" height="200" alt="My profile photo">
 
-7. Input:
+6. Input:
 File names: home.html, portfolio.html, portfolio-image.html, Image from images folder
 
-8. Output:
+7. Output:
 Clicking portfolio link opens portfolio page. Clicking back link returns to home. Image shows 200x200 size, if missing alt text shows. Screenshots in images folder.
 
-9. Result:
+8. Result:
 Experiment performed successfully.
 
-10. Viva-Voce Questions:
+9. Viva-Voce Questions:
 1. What is difference between absolute and relative link?
 2. What is use of alt attribute?
 3. What is href?

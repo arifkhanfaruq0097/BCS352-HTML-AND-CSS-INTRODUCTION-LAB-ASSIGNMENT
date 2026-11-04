@@ -13,14 +13,7 @@ Visual Studio Code, Chrome Browser
 4. Theory:
 Media query @media checks screen size. max-width:600px applies CSS when screen is 600px or less. Responsive design adjusts layout for mobile and desktop.
 
-5. Algorithm / Procedure:
-1. Create folder Assignment 12
-2. Create responsive-text.html with h1 32px and media query 600px to 20px
-3. Create responsive-layout.html with two columns flex and media query to column direction
-4. Open in browser and resize window to test
-5. Take screenshots mobile and desktop
-
-6. Program / Queries / Commands:
+5. Program / Queries / Commands:
 responsive-text.html:
 <!-- Name: Arif Khan | Roll No: 2510303124 | Ass: 12 -->
 <!DOCTYPE html>
@@ -42,16 +35,16 @@ responsive-layout.html:
 </style>
 <div class="container"><div class="col">Column 1</div><div class="col">Column 2</div></div>
 
-7. Input:
+6. Input:
 File names: responsive-text.html, responsive-layout.html
 
-8. Output:
+7. Output:
 Desktop shows large text and two columns side by side. On mobile width below 600px text becomes small and columns become one column. Screenshots in images folder.
 
-9. Result:
+8. Result:
 Experiment performed successfully.
 
-10. Viva-Voce Questions:
+9. Viva-Voce Questions:
 1. What is media query?
 2. What is max-width?
 3. What is responsive design?

@@ -13,14 +13,7 @@ Visual Studio Code, Chrome Browser
 4. Theory:
 box-shadow adds shadow, format x y blur color. border-radius makes corners round. Card uses width, padding, background white.
 
-5. Algorithm / Procedure:
-1. Create folder Assignment 14
-2. Create card.html with div class card width 250px padding 20px border-radius 10px box-shadow 0 4px 8px gray
-3. Add image, title and text inside card
-4. Open in browser
-5. Take screenshot
-
-6. Program / Queries / Commands:
+5. Program / Queries / Commands:
 card.html:
 <!-- Name: Arif Khan | Roll No: 2510303124 | Ass: 14 -->
 <!DOCTYPE html>
@@ -38,16 +31,16 @@ card.html:
 </body>
 </html>
 
-7. Input:
+6. Input:
 File name: card.html
 
-8. Output:
+7. Output:
 White card with rounded corners and soft shadow appears on gray background. Screenshot in images folder.
 
-9. Result:
+8. Result:
 Experiment performed successfully.
 
-10. Viva-Voce Questions:
+9. Viva-Voce Questions:
 1. What is box-shadow?
 2. What is border-radius?
 3. Why use card design?

@@ -13,14 +13,7 @@ Visual Studio Code, Chrome Browser
 4. Theory:
 transition property makes change smooth, transition: all 0.5s ease. :hover applies when mouse over. @keyframes defines animation steps, animation property runs it with duration and infinite loop.
 
-5. Algorithm / Procedure:
-1. Create folder Assignment 13
-2. Create hover-transition.html with button background blue transition to red on hover
-3. Create bounce-animation.html with div animation bounce 1s infinite using keyframes
-4. Open in browser and hover to see effect
-5. Take screenshots
-
-6. Program / Queries / Commands:
+5. Program / Queries / Commands:
 hover-transition.html:
 <!-- Name: Arif Khan | Roll No: 2510303124 | Ass: 13 -->
 <!DOCTYPE html>
@@ -41,16 +34,16 @@ bounce-animation.html:
 </style>
 <div class="box"></div>
 
-7. Input:
+6. Input:
 File names: hover-transition.html, bounce-animation.html
 
-8. Output:
+7. Output:
 Button changes color smoothly from blue to red on hover. Box bounces up and down continuously. Screenshots in images folder.
 
-9. Result:
+8. Result:
 Experiment performed successfully.
 
-10. Viva-Voce Questions:
+9. Viva-Voce Questions:
 1. What is transition?
 2. What is :hover?
 3. What is @keyframes?
